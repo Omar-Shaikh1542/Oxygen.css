@@ -641,3 +641,9 @@
 .list-body{
     display: flex;
 }
+.foot{
+    background-color: #FDB035;
+    text-align: center;
+    font-weight: 200;
+    padding: 2%;
+}

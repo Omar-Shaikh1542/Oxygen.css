@@ -1,0 +1,461 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+            <title>Oxygen</title>
+
+            <link rel="stylesheet" href="oxygen.css">
+        </head>
+        <body>
+            <!------------ nav ------------>
+            <ul class = "nav  text-light">
+                
+                <div class="nav-brand text-light">
+
+                    <h3 >Oxygen</h3>
+                </div>
+                        
+                <li class = "nav-ele">
+                    <a class = "nav-link" href="">Home</a>
+                </li>
+                <li class = "nav-ele">
+                    <a class = "nav-link" href="">About Us</a>
+                </li>
+                <li class = "nav-ele">
+                    <a class = "nav-link" href="">Gallery</a>
+                </li>
+                <li class = "nav-ele">
+                    <a class = "nav-link" href="">Cart</a>
+                </li>
+                <li class = "nav-ele">
+                    <a class = "nav-link" href="">Contact us</a>
+                </li>
+
+            </ul>
+
+            <ul class = "nav nav-spread nav-light">
+                <div class="nav-brand text-dark">
+
+                    <h3 >Oxygen</h3>
+                </div>
+                <div class="nav-menu">
+
+                    <li class = "nav-ele">
+                        <a class = "nav-link" href="">Home</a>
+                    </li>
+                    <li class = "nav-ele">
+                        <a class = "nav-link" href="">About Us</a>
+                    </li>
+                    <li class = "nav-ele">
+                        <a class = "nav-link" href="">Gallery</a>
+                    </li>
+                    <li class = "nav-ele">
+                        <a class = "nav-link" href="">Cart</a>
+                    </li>
+                    <li class = "nav-ele">
+                        <a class = "nav-link" href="">Contact us</a>
+                    </li>
+                </div>
+                    
+            </ul>
+
+            <ul class = "nav nav-center nav-primary">
+                
+                <li class = "nav-ele">
+                    <a class = "nav-link" href="">Home</a>
+                </li>
+                <li class = "nav-ele">
+                    <a class = "nav-link" href="">About Us</a>
+                </li>
+                <li class = "nav-ele">
+                    <a class = "nav-link" href="">Gallery</a>
+                </li>
+                <li class = "nav-ele">
+                    <a class = "nav-link" href="">Cart</a>
+                </li>
+                <li class = "nav-ele">
+                    <a class = "nav-link" href="">Contact us</a>
+                </li>
+
+            </ul>
+            <ul class = "nav nav-col  nav-dark text-light">
+
+                <div class="nav-brand text-light">
+
+                    <h3 >Oxygen</h3>
+                </div>
+                <li class = "nav-ele">
+                    <a class = "nav-link" href="">Home</a>
+                </li>
+                <li class = "nav-ele">
+                    <a class = "nav-link" href="">About Us</a>
+                </li>
+                <li class = "nav-ele">
+                    <a class = "nav-link" href="">Gallery</a>
+                </li>
+                <li class = "nav-ele">
+                    <a class = "nav-link" href="">Cart</a>
+                </li>
+                <li class = "nav-ele">
+                    <a class = "nav-link" href="">Contact us</a>
+                </li>
+
+            </ul>
+
+            <ul class = "nav nav-center nav-danger text-light">
+                <div class="nav-brand text-light">
+
+                    <h3 >Oxygen</h3>
+                </div>
+            </ul>
+            <ul class = "nav nav-fill nav-danger text-light">
+                <li class = "nav-ele">
+                    <a class = "nav-link" href="">Home</a>
+                </li>
+                <li class = "nav-ele">
+                    <a class = "nav-link" href="">About Us</a>
+                </li>
+                <li class = "nav-ele">
+                    <a class = "nav-link" href="">Gallery</a>
+                </li>
+                <li class = "nav-ele">
+                    <a class = "nav-link" href="">Cart</a>
+                </li>
+                <li class = "nav-ele">
+                    <a class = "nav-link" href="">Contact us</a>
+                </li>
+
+            </ul>
+
+           
+            <!----------- words ----------->
+            <h1>Heading</h1>
+            <h2>Heading</h2>
+            <h3>Heading</h3>
+            <h4>Heading</h4>
+            <h5>Heading</h5>
+            <h6>Heading</h6>
+            <p>Heading</p>
+            <a href="">Link</a>
+            <br>
+
+
+
+            <!------------Buttons ------------>
+            <button class = "butn">submit</button>
+            <button class = "butn butn-sm">Submit</button>
+            <button class = "butn butn-md">Submit</button>
+            <button class = "butn butn-lg">Submit</button>
+            <button class = "butn butn-xl">Submit</button>
+            <br>
+            <button class = " butn butn-primary">Submit</button>
+            <button class = "butn butn-secondary">Submit</button>
+            <button class = "butn butn-dark">Submit</button>
+            <button class = "butn butn-light">Submit</button>
+            <button class = "butn butn-warning">Submit</button>
+            <button class = "butn butn-danger">Submit</button>
+            <button class = "butn butn-info">Submit</button>
+            <button class = "butn butn-success ">Submit</button>
+
+            <!----------Card  ----------------->
+            <div class="thing">
+
+                <div class="card " style="margin: 1%; width: 18rem;">
+                    <div class = "card-image">
+                        <img src="unknown.png" alt="" style="width: 100%;">
+                    </div>
+                    <div class="card-info">
+                        <h3 class="card-title">Lorem, ipsum.</h3>
+                        <p class = "card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, exercitationem!</p>
+                        <a href="https://bootstrap.com/docs/5.0/components/buttons/">
+                            <button class = "butn butn-dark">Click Me</button>
+                        
+                        </a>
+                    </div>
+                </div>
+
+                <div class="card back-dark text-light" style="margin: 1%; width: 18rem;">
+                    <div class = "card-image">
+                        <img src="unknown.png" alt="" style="width: 100%;">
+                    </div>
+                    <div class="card-info">
+                        <h3 class="card-title">Lorem, ipsum.</h3>
+                        <p class = "card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, exercitationem!</p>
+                        <a href="https://bootstrap.com/docs/5.0/components/buttons/">
+                            <button class = "butn butn-dark">Click Me</button>
+                        
+                        </a>
+                    </div>
+                </div>
+                <div class="card" style="margin: 1%; width: 18rem;">
+                    <div class = "card-image">
+                        <img src="unknown.png" alt="" style="width: 100%;">
+                    </div>
+                    <div class="card-info">
+                        <h3 class="card-title">Lorem, ipsum.</h3>
+                        <p class = "card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, exercitationem!</p>
+                        <a href="https://bootstrap.com/docs/5.0/components/buttons/">
+                            <button class = "butn butn-light">Click Me</button>
+                        
+                        </a>
+                    </div>
+                </div>
+                
+                <div class="card back-dark text-light" style="margin: 1%; width: 18rem;">
+                    <div class = "card-image">
+                        <img src="unknown.png" alt="" style="width: 100%;">
+                    </div>
+                    <div class="card-info">
+                        <h3 class="card-title">Lorem, ipsum.</h3>
+                        <p class = "card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, exercitationem!</p>
+                        <a href="https://bootstrap.com/docs/5.0/components/buttons/">
+                            <button class = "butn butn-light">Click Me</button>
+                        
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+             <!-----------horizontal card  -------------------->
+            <div class="hor-thing">
+
+                <div class="hor-card" style="margin: 1%; width: 25rem;">
+                    <div class="hor-card-info">
+                    <h3 class="hor-card-title">Lorem, ipsum.</h3>
+                    <p class = "hor-card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, exercitationem!</p>
+                    <a href="https://bootstrap.com/docs/5.0/components/buttons/">
+                        <!-- <button class = "butn butn-primary">Click Me</button> -->
+                        
+                    </a>
+                </div>
+                <div class = "hor-card-image">
+                    
+                    <img src="dogukan-sahin-ggv896gJQlU-unsplash.jpg" style = "width: 150px; height: 150px;" >
+                </div>
+            </div>
+            
+            <div class="hor-card" style="margin: 1%; width: 25rem;">
+                <div class="hor-card-info">
+                    <h3 class="hor-card-title">Lorem, ipsum.</h3>
+                    <p class = "hor-card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, exercitationem!</p>
+                    <a href="https://bootstrap.com/docs/5.0/components/buttons/">
+                        <!-- <button class = "butn butn-primary">Click Me</button> -->
+                        
+                    </a>
+                </div>
+                <div class = "hor-card-image">
+                    
+                    <img src="dogukan-sahin-ggv896gJQlU-unsplash.jpg" style = "width: 150px; height: 150px;" >
+                </div>
+            </div>
+
+            <div class="hor-card" style="margin: 1%; width: 25rem;">
+                <div class="hor-card-info">
+                    <h3 class="hor-card-title">Lorem, ipsum.</h3>
+                    <p class = "hor-card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, exercitationem!</p>
+                    <a href="https://bootstrap.com/docs/5.0/components/buttons/">
+                        <!-- <button class = "butn butn-primary">Click Me</button> -->
+                        
+                    </a>
+                </div>
+                <div class = "hor-card-image">
+                    
+                    <img src="dogukan-sahin-ggv896gJQlU-unsplash.jpg" style = "width: 150px; height: 150px;" >
+                </div>
+            </div>
+            
+        </div>
+
+        <!--------------------list group  -->
+        <div class="list-thing">
+
+            <ul class="list-set">
+                <li class = "list-ele disabled">Lorem, ipsum dolor.</li>
+                <li class = "list-ele">Lorem, ipsum dolor.</li>
+                <li class = "list-ele">Lorem, ipsum dolor.</li>
+                <li class = "list-ele">Lorem, ipsum dolor.</li>
+                <li class = "list-ele">Lorem, ipsum dolor.</li>
+                <li class = "list-ele">Lorem, ipsum dolor.</li>
+            </ul>
+            
+            <div class="list-set list-set-flush text-dark">
+                <a href="#" class = "list-set-ele list-set-ele-action active ">Lorem, ipsum dolor.</a>
+                <a href="#" class = "list-set-ele list-set-ele-action ">Lorem, ipsum dolor.</a>
+                <a href="#" class = "list-set-ele list-set-ele-action disabled">Lorem, ipsum dolor.</a>
+                <a href="#" class = "list-set-ele list-set-ele-action ">Lorem, ipsum dolor.</a>
+                <a href="#" class = "list-set-ele list-set-ele-action ">Lorem, ipsum dolor.</a>
+                <a href="#" class = "list-set-ele list-set-ele-action ">Lorem, ipsum dolor.</a>
+                
+            </div>
+        </div>
+
+        <!---------------Carousel--------------->
+        <div class="carousel" style=" width: 80%;height: 90vh;">
+            <div class= "carousel-in">
+                <div class="carousel-img " >
+                    <img src="photography.jpg" alt="" >
+                </div>
+                <div class="carousel-img">
+                    <img src="unknown.png" alt="">
+                </div>
+                <div class="carousel-img">
+                    <img src="music.jpg" alt="">
+                </div>
+            </div>
+        </div>
+
+        <!-------------------form----------->
+        <div class="form-set">
+            <input type="text" class = "ee input-ele" placeholder="Name">
+            <input class = "ee radio-ele" type="radio" name="" id="">
+            <input  class = "ee checkbox-ele" type="checkbox" name="" id="">
+            <textarea class = "ee textarea-ele" name="" id="" cols="30" rows="10"></textarea>
+            <select class = "select-ele" name="" id="">
+                <option value="">happy</option>
+                <option value="">sad</option>
+                <option value="">Depressed</option>
+                <option value="">Dead</option>
+            </select>
+        </div>
+
+        <!-------------------pagination------------>
+        <ul class="page-number text-dark">
+            
+            <li class = "page-ele ">
+                <a href="">
+                    <!-- <i class="fa fa-arrow-right" aria-hidden="true"></i> -->
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-left-fill" viewBox="0 0 16 16">
+                        <path d="M3.86 8.753l5.482 4.796c.646.566 1.658.106 1.658-.753V3.204a1 1 0 0 0-1.659-.753l-5.48 4.796a1 1 0 0 0 0 1.506z"/>
+                      </svg>
+                </a>
+            </li>
+            <li class = "page-ele page-info href="">1</a>
+            </li>
+            <li class = "page-ele page-danger">
+                <a href="">2</a>
+            </li>
+            <li class = "page-ele page-warning">
+                <a href="">3</a>
+            </li>
+            <li class = "page-ele page-dark text-light">
+                <a href="">4</a>
+            </li>
+
+            <li class = "page-ele page-success">
+                <a href="">5</a>
+            </li>
+            <li class = "page-ele page-primary">
+                <a href="">6</a>
+            </li>
+
+            <li class = "page-ele ">
+                <a href="">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16">
+                        <path d="M12.14 8.753l-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z"/>
+                      </svg>
+                    <!-- <i class="fa fa-arrow-left" aria-hidden="true"></i><a href="">6</a> -->
+                </a>    
+            </li>
+        </ul>
+
+        <ul class="page-number text-dark">
+            
+            <li class = "page-ele-circle ">
+                <a href="">
+                    <!-- <i class="fa fa-arrow-right" aria-hidden="true"></i> -->
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-left-fill" viewBox="0 0 16 16">
+                        <path d="M3.86 8.753l5.482 4.796c.646.566 1.658.106 1.658-.753V3.204a1 1 0 0 0-1.659-.753l-5.48 4.796a1 1 0 0 0 0 1.506z"/>
+                      </svg>
+                </a>
+            </li>
+            <li class = "page-ele-circle ">
+                <a href="">1</a>
+            </li>
+            <li class = "page-ele-circle ">
+                <a href="">2</a>
+            </li>
+            <li class = "page-ele-circle ">
+                <a href="">3</a>
+            </li>
+            <li class = "page-ele-circle  ">
+                <a href="">4</a>
+            </li>
+
+            <li class = "page-ele-circle ">
+                <a href="">5</a>
+            </li>
+            
+            <li class = "page-ele-circle ">
+                <a href="">6</a>
+            </li>
+            <li class = "page-ele-circle ">
+                <a href="">7</a>
+            </li>
+            <li class = "page-ele-circle ">
+                <a href="">8</a>
+            </li>
+            <li class = "page-ele-circle ">
+                <a href="">9</a>
+            </li>
+            <li class = "page-ele-circle ">
+                <a href="">10</a>
+            </li>
+
+            <li class = "page-ele-circle ">
+                <a href="">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16">
+                        <path d="M12.14 8.753l-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z"/>
+                      </svg>
+                    <!-- <i class="fa fa-arrow-left" aria-hidden="true"></i><a href="">6</a> -->
+                </a>    
+            </li>
+        </ul>
+        <!---------------Dropdown-------------- -->
+        <div class="dropdown text-light">
+            
+            <div class="dropd-toggle">
+                <h4>
+                    Dropdown
+                </h4>
+                    <svg class = "dropd-img" xmlns="http://www.w3.org/2000/svg" width="25px" height="25px" fill="currentColor" class="bi bi-arrow-down-circle" viewBox="0 0 16 16">
+                        <path fill-rule="evenodd" d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM8.5 4.5a.5.5 0 0 0-1 0v5.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V4.5z"/>
+                    </svg>
+            </div>
+            <ul class = "dropd-menu ">
+                <li class = "dropd-item">
+                    <a href=""> Happy</a>
+                </li>
+                <li class = "dropd-item">
+                    <a href="">sad</a>
+                </li>
+                <li class = "dropd-item">
+                    <a href="">angry</a>
+                </li>
+                <li class = "dropd-item">
+                    <a href="">depressed</a>
+                </li>
+                <li class = "dropd-item">
+                    <a href="">dead</a>
+                </li>
+            </ul>
+        </div>
+
+        <!---------------------------modal -----------------  -->
+        <div class="modal">
+            <div class="modal-title text-light">
+                <h1>Modal</h1>    
+            </div>
+            <div class="modal-body">
+                <input class = "input-ele" type="email" name="" id="" placeholder="Email">
+                <input class = "input-ele" type="password" name="" id="" placeholder="Password">
+                <button class = " mohide butn butn-md butn-warning">Sumbit</button>
+            </div>
+        </div>
+
+        <button class = "modal-button-show butn butn-primary">Modal</button>
+        
+        <!-- ------------------ -->
+        <div class="other"></div>
+
+        <script type = "text/javascript" src="index.js"></script>
+        </body>
+    </html>
